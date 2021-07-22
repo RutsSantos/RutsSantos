@@ -27,7 +27,7 @@ I've been working on JavaScript, mostly playing with React and React Native. I a
 <div class="connect-with-me" align="center">
     <h2>Connect with me</h2>
     <a
-    href="https://linkedin.com/in/jrodriguezdiazz"
+    href="https://linkedin.com/in/rutssantos"
     target="_blank"
     rel="noopener noreferrer"
     ><img
