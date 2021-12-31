@@ -9,7 +9,7 @@ I've been working on JavaScript, mostly playing with React and React Native. I a
 
 - 🔭 I’m currently working on [Intellisys D. Corp](https://intellisysdcorp.com/)
 - 📫 How to reach me: [rutsaraisantos@gmail.com](mailto:rutsaraisantos@gmail.com)
-- 🌱 I’m currently learning [Clay](https://claycms.gitbook.io/clay/) and [React Native](https://reactnative.dev/)
+- 🌱 I’m currently learning [Wordpress](https://learn.wordpress.org) and [NodeJS](https://nodejs.org/en/docs/)
 -  :bulb: My focus is on mobile development and user experience (UX) studies.
 ## 
 <h3 align="center">Metrics</h3>
