@@ -1,14 +1,13 @@
 <h1 align="center">Hi there, I'm Rut Santos 👋 </h1>
 
-<h3 align="center"> Junior developer - Full stack mobile and web</h3>
+<h3 align="center"> Mid Level developer - Full stack mobile and web</h3>
 
 
-I'm a mobile and web developer who loves to help others to learn and grow professionally and personally. I'm passionate on what I do, especially front-end and user experience design.
+I'm a mobile and web developer with 5+ years of experience, who loves to help others to learn and grow professionally and personally. I'm passionate on what I do, especially front-end and user experience design.
 
 I've been working on JavaScript, mostly playing with React and React Native. I also got experience with Angular, Python, XML, Firebase and other non programming related softwares such as Figma, inVision and Sketch for UI/UX design.
 
 - 📫 How to reach me: [rutsaraisantos@gmail.com](mailto:rutsaraisantos@gmail.com)
-- 🌱 I’m currently learning [React](https://es.reactjs.org) and [NodeJS](https://nodejs.org/en/docs/)
 -  :bulb: My focus is on mobile development and user experience (UX) studies.
 ## 
 <h3 align="center">Metrics</h3>
